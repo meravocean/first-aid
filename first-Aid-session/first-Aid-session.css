@@ -1,0 +1,32 @@
+.first-column {
+    position: absolute;
+    top: 20%;
+    left: 170px;
+    font-size: 45px;
+    color: aliceblue;
+    text-transform: capitalize;
+    background-color: crimson;
+    border-style: dotted;
+    border-radius: 8%;
+    padding: 0.5%;
+    padding-right: 0.8%;
+}
+
+.second-column {
+    position: absolute;
+    top: 20%;
+    left: 58%;
+    font-size: 45px;
+    color: aliceblue;
+    text-transform: capitalize;
+    background-color: crimson;
+    border-style: dotted;
+    padding: 0.5%;
+    padding-right: 0.8%;
+    border-radius: 8%;
+}
+
+.link {
+    color: crimson;
+    font-size: 15px;
+}

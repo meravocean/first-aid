@@ -1,0 +1,22 @@
+.title {
+    top: 10%;
+    left: 25%;
+    font-size: 80px;
+    position: absolute;
+    text-transform: capitalize;
+    color: crimson;
+}
+
+.explanation {
+    position: absolute;
+    text-transform: capitalize;
+    top: 30%;
+    left: 15%;
+    font-size: 45px;
+    color: crimson;
+}
+
+.link {
+    color: crimson;
+    font-size: 15px;
+}

@@ -1,0 +1,59 @@
+.title {
+    top: 8%;
+    left: 15%;
+    font-size: 90px;
+    position: absolute;
+    text-transform: capitalize;
+    color: crimson;
+}
+
+.recovering-position {
+    position: absolute;
+    top: 28%;
+    left: 15%;
+    font-size: 55px;
+    color: aliceblue;
+    text-transform: capitalize;
+    background-color: crimson;
+    border-style: dotted;
+    padding: 0.5%;
+    padding-right: 0.8%;
+    border-radius: 8%;
+}
+
+.link {
+    color: crimson;
+    font-size: 15px;
+}
+
+.meruba-tachton {
+    position: absolute;
+    top: 80%;
+    left: 12%;
+    height: 100px;
+    background-color: crimson;
+    width: 300px;
+}
+
+
+
+.malben-emzai {
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    height: 200px;
+    background-color: crimson;
+    width: 80px;
+}
+
+.meshulash {
+    top: 50%;
+    color: crimson;
+    position: absolute;
+    left: 17%;
+    width: 0;
+    height: 0;
+    border-left: 80px solid transparent;
+    border-right: 80px solid transparent;
+    border-bottom: 82px solid crimson;
+}

@@ -1,0 +1,36 @@
+.title {
+    top: 4%;
+    left: 30%;
+    font-size: 115px;
+    position: absolute;
+    text-transform: capitalize;
+    color: crimson;
+}
+
+.line {
+    position: absolute;
+    text-transform: capitalize;
+    top: 30%;
+    left: 20%;
+    font-size: 45px;
+    color: aliceblue;
+    background-color: crimson;
+    border-style: dotted;
+    padding: 0.5%;
+    padding-right: 0.8%;
+    border-radius: 8%;
+}
+
+.link {
+    color: crimson;
+    font-size: 15px;
+}
+
+.avpu {
+    font-size: 50px;
+    color: crimson;
+    left: 38%;
+    top: 20%;
+    text-transform: capitalize;
+    position: absolute;
+}

@@ -1,0 +1,27 @@
+.title {
+    top: 10%;
+    left: 10%;
+    font-size: 79px;
+    position: absolute;
+    color: crimson;
+    text-transform: capitalize;
+}
+
+.menu-column {
+    position: absolute;
+    top: 30%;
+    left: 13%;
+    font-size: 45px;
+    color: aliceblue;
+    text-transform: capitalize;
+    background-color: crimson;
+    border-style: dotted;
+    padding: 0.5%;
+    padding-right: 0.8%;
+    border-radius: 8%;
+}
+
+.link {
+    font-size: 15px;
+    color: crimson;
+}
